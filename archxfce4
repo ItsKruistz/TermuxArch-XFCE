@@ -1,1 +1,1 @@
-pkg update && pkg install pulseaudio && wget https://raw.githubusercontent.com/NotteShock/TermuxArch-XFCE/main/on && chmod +x ./on && curl -OL https://TermuxArch.github.io/TermuxArch/setupTermuxArch && bash setupTermuxArch && pacman -S xfce4 tigervnc && vncpasswd
+termux-setup-storage && termux-wake-lock && pkg update && pkg install pulseaudio && wget https://raw.githubusercontent.com/NotteShock/TermuxArch-XFCE/main/on && chmod +x ./on && curl -OL https://TermuxArch.github.io/TermuxArch/setupTermuxArch && bash setupTermuxArch && pacman -S xfce4 tigervnc && vncpasswd
