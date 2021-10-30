@@ -4,4 +4,4 @@ Just wait for the script to download necessary things for you.
 After that type `vncserver :1` and voilà, you will get a XFCE environment
 
 ## If you already installed:
-Run `./on` and type `vncserver :1` and you successfully booted up the XFCE environment.
+Run `./on` and you successfully booted up the XFCE environment.
