@@ -1,1 +1,1 @@
-pkg install pulseaudio wget && pkg update && wget  curl -OL https://TermuxArch.github.io/TermuxArch/setupTermuxArch && bash setupTermuxArch && pacman -S xfce4 tigervnc && vncpasswd
+pkg install pulseaudio wget && pkg update && curl -OL https://TermuxArch.github.io/TermuxArch/setupTermuxArch && bash setupTermuxArch && https://raw.githubusercontent.com/NotteShock/TermuxArch-XFCE/main/on && pacman -S xfce4 tigervnc && vncpasswd
